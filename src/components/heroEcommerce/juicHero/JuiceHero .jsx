@@ -173,12 +173,8 @@ const JuiceHero = () => {
               playsInline
               preload="auto"
             />
+            <img src='./29364-removebg-preview.png ' />
 
-<video  ref={videoRef} >
-  <source src="./Watermelon Juice.mp4" type="video/mp4"/>
-  {/* <source src="movie.ogg" type="video/ogg"> */}
-  {/* Your browser does not support the video tag. */}
-</video>
             
             {/* Reflection effect */}
             <div className="absolute inset-0 bg-gradient-to-t from-white/30 to-transparent rounded-lg pointer-events-none" />
